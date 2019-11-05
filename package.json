@@ -21,5 +21,16 @@
     "vue-loader": "^9.7.0",
     "webpack": "2.1.0-beta.25",
     "webpack-dev-server": "2.1.0-beta.0"
-  }
+  },
+  "version": "1.0.0",
+  "main": "webpack.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaioshin20/quizApp.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaioshin20/quizApp/issues"
+  },
+  "homepage": "https://github.com/kaioshin20/quizApp#readme"
 }
